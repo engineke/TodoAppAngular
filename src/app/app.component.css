@@ -1,0 +1,22 @@
+.todo-container {
+  width: 50%;
+  margin: 20px auto;
+}
+
+mat-form-field {
+  width: 100%;
+}
+
+.display-all {
+    margin: 20px 0px;
+}
+
+table {
+  width: 100%;
+}
+
+.todo-list-container {
+  max-height: 300px;
+  overflow: auto;
+  margin: 20px auto;
+}

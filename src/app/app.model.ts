@@ -5,7 +5,7 @@ export class TodoModel {
     constructor() {
         this.user = "Engin";
         this.items = [
-            new TodoItem("Kitap Okumak", true),
+            new TodoItem("Kitap Okumak", false),
             new TodoItem("Kahvaltı", false),
             new TodoItem("Spor", false),
             new TodoItem("Sinema", false)
